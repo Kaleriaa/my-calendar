@@ -1,6 +1,7 @@
 {
   "name": "my-calendar",
   "private": true,
+  "homepage": "https://kaleriaa.github.io/my-calendar/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
