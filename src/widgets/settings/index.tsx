@@ -1,4 +1,3 @@
-import React from 'react'
 import { $currentEvent, deleteEvent, openModal, updateDate } from '@entities'
 import { SettWrapper, SettButton } from './styled'
 import { useUnit } from 'effector-react'

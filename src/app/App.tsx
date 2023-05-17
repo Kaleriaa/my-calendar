@@ -1,4 +1,3 @@
-import React from 'react'
 import { Header, Calendar, Settings } from '@widgets'
 import { Container } from './styled'
 import { Modal } from '@widgets/modal'

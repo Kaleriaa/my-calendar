@@ -1,4 +1,3 @@
-import React from 'react'
 import { formattedHours } from '../constants'
 import { Field } from './Field'
 import { Intervals, TableWrapper, Time } from './styled'
