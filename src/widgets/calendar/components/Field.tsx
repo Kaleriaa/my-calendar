@@ -1,6 +1,5 @@
 import { $ceilCoord, $weekEvents, clickOnCeil } from '@entities'
 import { useUnit } from 'effector-react'
-import React from 'react'
 import { CellType, colorCeilMap } from '../constants'
 import { Ceil, FieldWrapper } from './styled'
 
